@@ -1,0 +1,22 @@
+{
+  "name": "tsplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shayshoon/tsPlayground.git"
+  },
+  "author": "Shayshoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shayshoon/tsPlayground/issues"
+  },
+  "homepage": "https://github.com/Shayshoon/tsPlayground#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
